@@ -75,5 +75,19 @@
 
 .btn-danger:hover {
   background-color: #c9302c;
-  border-color: #ac2925;
+  border-color: #ac2925;}
+  
+/* Additional styles for "Flat buttons" */  
+  
+.flat-buttons  {
+  background-color: white;
+  color: black;
+  border-color: black;
+}
+
+.flat-buttons:hover  {
+  background-color: black;
+  color: white;
+  border-color: white;
+  cursor: pointer;
 }
