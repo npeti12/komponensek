@@ -1,0 +1,2 @@
+# komponensek
+components
